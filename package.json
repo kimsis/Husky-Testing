@@ -13,7 +13,7 @@
       "applypatch-msg": "echo \"[Husky] applypatch-msg testing\"",
       "pre-applypatch": "echo \"[Husky] pre-applypatch testing\"",
       "post-applypatch": "echo \"[Husky] post-applypatch testing\"",
-      "pre-commit": "echo \"[Husky] pre-commit testing\""
+      "pre-commit": "echo \"[Husky] pre-commit bruh\""
     }
   },
   "dependencies": {
