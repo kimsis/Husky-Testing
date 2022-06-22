@@ -9,7 +9,7 @@
     "lint": "prettier --check .",
     "format": "prettier --write .",
     "prepare": "husky install",
-    "pre-commmit": "yarn lint-staged"
+    "pre-commit": "yarn lint-staged"
   },
   "dependencies": {
     "next": "12.1.6",
