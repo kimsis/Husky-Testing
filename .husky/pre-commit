@@ -2,4 +2,4 @@
 . "$(dirname -- "$0")/_/husky.sh"
 
 #npm run pre-commit
-echo "export NVM_DIR='$HOME/.nvm' [ -s '$NVM_DIR/nvm.sh' ] && \. '$NVM_DIR/nvm.sh'"
+echo "export NVM_DIR=\"$HOME/.nvm\" [ -s \"$NVM_DIR/nvm.sh\" ] && \. \"$NVM_DIR/nvm.sh\""
