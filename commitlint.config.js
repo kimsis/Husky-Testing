@@ -21,7 +21,6 @@ module.exports = {
         "revert",
         "style",
         "test",
-        "merge request",
       ],
     ],
   },
