@@ -13,6 +13,7 @@
     "commit-msg": "npx --no -- commitlint --edit \"${1}\""
   },
   "dependencies": {
+    "@commitlint/config-conventional": "^17.0.2",
     "next": "12.1.6",
     "react": "18.2.0",
     "react-dom": "18.2.0"
