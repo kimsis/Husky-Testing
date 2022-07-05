@@ -1,7 +1,7 @@
 module.exports = {
   rules: {
     "header-max-length": [2, "always", 100],
-    "subject-case": [2, "never", ["sentence-case", "snake-case"]],
+    "subject-case": [2, "always", ["sentence-case", "snake-case"]],
     "subject-empty": [2, "never"],
     "subject-full-stop": [2, "never", "."],
     "type-empty": [2, "never"],
