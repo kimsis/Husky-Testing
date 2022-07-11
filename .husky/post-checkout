@@ -1,4 +1,4 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
-if [[ $HUSKY_GIT_PARAMS =~ 1$ ]]; then npm run post-checkout; fi
+if (HUSKY_GIT_PARAMS=~ 1$) ; then npm run post-checkout; fi
