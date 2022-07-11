@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb0b3e3b-7856-4ac6-92fe-fec8d54d51ab" name="Changes" comment="(fix) HSK-1: testing fix">
+    <list default="true" id="cb0b3e3b-7856-4ac6-92fe-fec8d54d51ab" name="Changes" comment="(fix) HSK-1: Testing fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lint-staged.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/lint-staged.config.js" afterDir="false" />
     </list>
@@ -37,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/dhristov/Repositories/my-husky-project",
+    "last_opened_file_path": "/home/dhristov/Repositories/dynamic-display",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -85,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657010322324</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="(fix) HSK-1: Testing fix">
+      <created>1657011940736</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657011940736</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,7 +132,8 @@
     <MESSAGE value="(test) HSK-1: Commit test" />
     <MESSAGE value="vcs in idea" />
     <MESSAGE value="(fix) HSK-1: testing fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="(fix) HSK-1: testing fix" />
+    <MESSAGE value="(fix) HSK-1: Testing fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="(fix) HSK-1: Testing fix" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

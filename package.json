@@ -10,6 +10,7 @@
     "format": "prettier --write .",
     "prepare": "husky install",
     "pre-commit": "npx lint-staged",
+    "post-checkout": "npm ci",
     "commit-msg": "npx --no -- commitlint --edit \"${1}\""
   },
   "dependencies": {
