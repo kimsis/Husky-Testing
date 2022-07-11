@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cb0b3e3b-7856-4ac6-92fe-fec8d54d51ab" name="Changes" comment="(fix) HSK-1 Testing fix">
       <change beforePath="$PROJECT_DIR$/.husky/post-checkout" beforeDir="false" afterPath="$PROJECT_DIR$/.husky/post-checkout" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657011940736</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="(fix) HSK-1: Testing fix">
+      <created>1657529602169</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657529602169</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
