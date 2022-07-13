@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb0b3e3b-7856-4ac6-92fe-fec8d54d51ab" name="Changes" comment="(fix) HSK-1 Testing fix">
-      <change beforePath="$PROJECT_DIR$/.husky/post-checkout" beforeDir="false" afterPath="$PROJECT_DIR$/.husky/post-checkout" afterDir="false" />
+    <list default="true" id="cb0b3e3b-7856-4ac6-92fe-fec8d54d51ab" name="Changes" comment="(fix) HSK-1: Testing fix.">
+      <change beforePath="$PROJECT_DIR$/.husky/post-checkout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.husky/post-merge" beforeDir="false" afterPath="$PROJECT_DIR$/.husky/post-merge" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.husky/post-rebase" beforeDir="false" afterPath="$PROJECT_DIR$/.husky/post-rebase" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.husky/pre-commit" beforeDir="false" afterPath="$PROJECT_DIR$/.husky/pre-commit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commitlint.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/commitlint.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,23 +36,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/dhristov/Repositories/dynamic-display&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.linters.eslint&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/dhristov/Repositories/my-husky-project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "settings.javascript.linters.eslint",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="add gitignore">
@@ -62,6 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1657008547452</updated>
       <workItem from="1657008548770" duration="1956000" />
+      <workItem from="1657701455323" duration="248000" />
     </task>
     <task id="LOCAL-00002" summary="(fix) HSK-1: Should pass">
       <created>1657009664684</created>
@@ -140,7 +148,8 @@
     <MESSAGE value="(fix) HSK-1: testing fix" />
     <MESSAGE value="(fix) HSK-1: Testing fix" />
     <MESSAGE value="(fix) HSK-1 Testing fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="(fix) HSK-1 Testing fix" />
+    <MESSAGE value="(fix) HSK-1: Testing fix." />
+    <option name="LAST_COMMIT_MESSAGE" value="(fix) HSK-1: Testing fix." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
